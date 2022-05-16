@@ -1,0 +1,11 @@
+1.payload
+2.throughput
+3.speed
+4.bandwidth*
+5.resources*
+6.Message size and  Message Overload
+7.Power Consumption vs Resource required
+8.Bandwidth vs Latency
+9.Reliability/QoS vs Interoperability
+10.Security vs Provisioning
+11.M2M/IoT Usage vs Standardisation

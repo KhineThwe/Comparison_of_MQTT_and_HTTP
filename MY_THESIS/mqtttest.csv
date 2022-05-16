@@ -1,0 +1,25 @@
+No.,Time,Source,Destination,Protocol,Length,Info
+6,2.581875,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+155,12.585313,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+226,22.584941,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+245,32.679061,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+248,32.855684,192.168.100.18,192.168.100.56,MQTT,82,"[TCP Spurious Retransmission] , Publish Message [esp/dht/temperature]"
+255,42.579115,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+258,46.625879,192.168.100.56,192.168.100.18,MQTT,56,Ping Request
+259,46.690703,192.168.100.18,192.168.100.56,MQTT,56,Ping Response
+309,52.583562,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+333,62.590929,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+349,72.616049,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+361,82.576265,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+376,92.585457,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+391,102.585158,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+394,106.619977,192.168.100.56,192.168.100.18,MQTT,56,Ping Request
+395,106.624086,192.168.100.18,192.168.100.56,MQTT,56,Ping Response
+409,112.577005,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+514,122.785326,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+517,122.907137,192.168.100.18,192.168.100.56,MQTT,82,"[TCP Spurious Retransmission] , Publish Message [esp/dht/temperature]"
+602,133.1795,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+612,143.333162,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+614,143.467058,192.168.100.18,192.168.100.56,MQTT,82,"[TCP Spurious Retransmission] , Publish Message [esp/dht/temperature]"
+628,152.621943,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
+638,162.577432,192.168.100.18,192.168.100.56,MQTT,82,Publish Message [esp/dht/temperature]
